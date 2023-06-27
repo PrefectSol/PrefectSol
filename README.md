@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrefectSol&color=green" alt="views">
 </p>
-<br>
 
 <h2 align="center">S T A C K </h2>
 
@@ -18,8 +17,6 @@
   Python | Bash  <br>
   Git | Maven | CMake  
 </p>
-
-<br>
 
 <h2 align="center">C O N T A C T S</h2>
 

@@ -21,7 +21,6 @@
 <h2 align="center">C O N T A C T S</h2>
 
 <p align="center">
-  VK: <a href="https://vk.com/prefectsol">@prefectsol</a> <br>
   Email: prefectsol@mail.ru <br>
   Discord: prefectsol <br>
   Website: <a href="https://prefectsol.github.io/">https://prefectsol.github.io</a> <br>

@@ -12,7 +12,7 @@
 
 <p align="center">
   C/C++ | OpenCV | QT | SDL2  <br>
-  C# | XamarinForms | ASP.NET <br>
+  C# | XamarinForms <br>
   Java | JavaFX  <br>
   Python | Bash  <br>
   Git | Maven | CMake  

@@ -15,7 +15,7 @@
   C# | XamarinForms <br>
   Java | JavaFX  <br>
   Python | Bash  <br>
-  Git | Maven | CMake  
+  Git | Maven | CMake  <br>
   ML
 </p>
 

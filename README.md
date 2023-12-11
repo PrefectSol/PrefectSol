@@ -16,6 +16,7 @@
   Java | JavaFX  <br>
   Python | Bash  <br>
   Git | Maven | CMake  
+  ML
 </p>
 
 <h2 align="center">C O N T A C T S</h2>
